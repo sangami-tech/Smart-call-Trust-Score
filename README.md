@@ -51,7 +51,7 @@ $$\text{TrustScore} = \text{Clamp}_{0}^{100}\Big(\text{BaseScore} + D_{\text{tag
    - **Possibly Urgent**: 🚨 Special Purple Pulse Badge (Override)
 
 ---
-**How to Run**;
+**How to Run**:
 1. Run npm install
 2. Run npm run dev
 3.Open [http://localhost:3000](http://localhost:3000) in your browser to view the application.
