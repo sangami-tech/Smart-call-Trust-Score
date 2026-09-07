@@ -52,26 +52,7 @@ $$\text{TrustScore} = \text{Clamp}_{0}^{100}\Big(\text{BaseScore} + D_{\text{tag
 
 ---
 
-## 🚀 Getting Started
 
-### Prerequisites
-- Node.js v18.0.0 or higher
-- npm or yarn
-
-### 1. Installation
-Clone the repository and install dependencies:
-
-```bash
-cd smart-call-trust-score
-npm install
-```
-
-### 2. Run Local Development Server
-Start the Next.js development server:
-
-```bash
-npm run dev
-```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the application.
 
@@ -122,25 +103,7 @@ smart-call-trust-score/
 └── public/
 ```
 
----
 
-## 📤 Pushing to GitHub
-
-To publish this repository on GitHub:
-
-```bash
-# 1. Initialize git repository
-git init
-git add .
-git commit -m "Initial commit: Smart Call Trust Score academic web app"
-
-# 2. Add remote and push to GitHub
-git remote add origin https://github.com/YOUR-USERNAME/smart-call-trust-score.git
-git branch -M main
-git push -u origin main
-```
-
----
 
 ## 📄 License
-Academic Research & Demonstration Project. Free for educational use.
+Academic Research & Demonstration Project
