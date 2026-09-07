@@ -1,7 +1,7 @@
 # Smart Call Trust Score 🛡️📞
 
 > **Context-Aware Spam Call Re-Evaluation System**  
-> *Final-Year Academic Project Implementation*
+
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
